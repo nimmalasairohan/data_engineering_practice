@@ -51,5 +51,4 @@ def upload_to_s3(data, bucket, key):
 
 
 upload_to_s3(fetch_api_product_data(),bucket,s3_key)
-print("dofccfbhhhfe")
-#good
+
